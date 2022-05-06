@@ -1,0 +1,17 @@
+.header {
+  background-color: #fad506; }
+
+body {
+  background-color: black; }
+
+nav {
+  color: black; }
+
+.footer {
+  background-color: #f1c709; }
+
+a {
+  margin: 0px  60px 0px;
+  height: fit-content;
+  flex-direction: column;
+  color: black; }
